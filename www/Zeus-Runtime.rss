@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>GameMaker 2016 Runtime Changelog</title>
+    <link>http://store.yoyogames.com/downloads/gm-studio/update-studio.rss</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>
+    <!-- END yygames --> 
+    <item>
+      <title>Version 2.2.4.372</title>
+      <pubDate>Thu, 17 Oct 2019 11:57:13 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gm2016.yoyogames.com/release-notes-runtime-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.magecorn.com/2.2.4.372/release-notes-2.2.4.372.json</comments>
+      <enclosure url="https://gms.magecorn.com/2.2.4.372/24b90cc0-3423-4083-bfc0-81f4a5b81bbb.zip" sparkle:version="2.2.4.372" type="application/octet-stream" length="32691369" sparkle:dsaSignature="MCwCFD3G2XjSAmGE5NuBZK6KT+Znr8SWAhRy/2Y/0a21VZ9efF+9sLv4Z9JNPg==">
+        <module name="amazonfire" url="https://gms.magecorn.com/2.2.4.372/dc7b2981-b866-4451-b679-c85c51fdd675.zip" sparkle:version="2.2.4.372" length="60797270" sparkle:dsaSignature="MCwCFDG9Xt0U5VziedZnb1eZSpwmQSdnAhRF2r7xo4+6KPoLgaINapJoIKd4pg==" />
+        <module name="android" url="https://gms.magecorn.com/2.2.4.372/839000f7-5f7f-4834-8f93-f2658ab5ca02.zip" sparkle:version="2.2.4.372" length="67385713" sparkle:dsaSignature="MC0CFGDErE080gA9tUP3+n4DQHKwr77+AhUAj1h32he0muB9AmbCYNf4gaBR8+U=" />
+        <module name="html5" url="https://gms.magecorn.com/2.2.4.372/59a6e6b5-ac4a-4aab-96d3-558c1e250529.zip" sparkle:version="2.2.4.372" length="452517" sparkle:dsaSignature="MCwCFEkh5s0x5vFYzAIL2mBPJ/mbsg8iAhQODMLbUzmjchzqxuS4dnKPcPXjyQ==" />
+        <module name="ios" url="https://gms.magecorn.com/2.2.4.372/1cae9f4e-e1e7-4bb0-94f0-ce5d4745bb15.zip" sparkle:version="2.2.4.372" length="85504253" sparkle:dsaSignature="MCwCFGEUlyv6faByQRzdOkEL1zsw4i8zAhR4wR7i41y0G4WDjI5pb17RkiLlpA==" />
+        <module name="linux" url="https://gms.magecorn.com/2.2.4.372/aa161244-a995-4219-aae0-2d053a733214.zip" sparkle:version="2.2.4.372" length="2411093" sparkle:dsaSignature="MC0CFBkyWYwpqzDlnCxKVBKOAZO8m0v/AhUAk6fwZsnE6vMMHrpFmuNpsyfGIGU=" />
+        <module name="linuxYYC" url="https://gms.magecorn.com/2.2.4.372/eaf891ec-be2d-42f9-9979-442f4adce832.zip" sparkle:version="2.2.4.372" length="11838367" sparkle:dsaSignature="MCwCFH2yQWR9ysMS7HwE4/O3WVZAGVvdAhRvB+EFQpabb0ke0aJei00yk1CSbw==" />
+        <module name="mac" url="https://gms.magecorn.com/2.2.4.372/f21ef1b5-f9a5-4a43-a181-21a45d37b161.zip" sparkle:version="2.2.4.372" length="22684467" sparkle:dsaSignature="MCwCFHulZJsnFV8OU+hARXi5pssQqH3XAhQ6dWHE/YdNw0oSayg+E2bg9eBbbw==" />
+        <module name="macYYC" url="https://gms.magecorn.com/2.2.4.372/bd1ceb4e-cb3d-4b96-b054-58250ca89e7e.zip" sparkle:version="2.2.4.372" length="33603556" sparkle:dsaSignature="MCwCFERMpVT9IKRMaL1lLkZBFvKnnH3dAhQrYCZDQ2JkkzqDSI+7xcmj/WlXEw==" />
+        <module name="ps4" url="https://gms.magecorn.com/2.2.4.372/7dd2dd4d-4c0a-488c-acb5-a75403b8fe93.zip" sparkle:version="2.2.4.372" length="7170932" sparkle:dsaSignature="MC0CFCvTqP5xXaGObjm8x4Qqt80lwIdKAhUAi4wlcohQZ94SEZEPQDuYQHqgIGw=" />
+        <module name="switch" url="https://gms.magecorn.com/2.2.4.372/b196ec42-1362-4d32-998e-48826245b3b1.zip" sparkle:version="2.2.4.372" length="33409378" sparkle:dsaSignature="MCwCFBU08JLUN7jbZiVJtyf1X4BspJfyAhRzOntEr8D/SVw1ts+vDFc8ed63sg==" />
+        <module name="tvos" url="https://gms.magecorn.com/2.2.4.372/40ccd253-f6e0-4548-ae59-e2cd964777b3.zip" sparkle:version="2.2.4.372" length="167751989" sparkle:dsaSignature="MC0CFQCFcPfofRtUILIFZlYHXOlXvCqkKQIUEi/4MZChtpo0kJud996MwXrpG0Y=" />
+        <module name="windows" url="https://gms.magecorn.com/2.2.4.372/adf6427a-ed89-47cf-9be3-ce3b5bf2f1fa.zip" sparkle:version="2.2.4.372" length="17230831" sparkle:dsaSignature="MCwCFDj8Z4vN5OopluLV/5L4DS+a4xhMAhR73t2RXLU6suZUhqKguPHCkRH0nQ==" />
+        <module name="windowsuap" url="https://gms.magecorn.com/2.2.4.372/c60b0a62-350a-4c50-8769-76e810d3b677.zip" sparkle:version="2.2.4.372" length="36652375" sparkle:dsaSignature="MCwCFHK/eAbM948BnhPBRKvdeeWYOeALAhRLj63sJUZW4acJwXk33Nr3m7hpmQ==" />
+        <module name="windowsYYC" url="https://gms.magecorn.com/2.2.4.372/3d6b2dcc-5c39-4192-b72b-bb2907828a6e.zip" sparkle:version="2.2.4.372" length="47502884" sparkle:dsaSignature="MCwCFGNbBUru3hwFjIXDnerddZYSGsKXAhR8/mJEf7V08WJFBfZzCCj0KiAq5w==" />
+        <module name="xboxone" url="https://gms.magecorn.com/2.2.4.372/26845ff6-c267-4313-8107-13078576e0f4.zip" sparkle:version="2.2.4.372" length="22154923" sparkle:dsaSignature="MCwCFC2SJ5cUuuMDEID3f1ggcAOMHhmZAhQkbOZmwYLz4nX5MsXJekvoEkpOeA==" />
+        <module name="mac.mono" url="https://gm2016.yoyogames.com/MonoFramework-MDK-5.10.1.57.macos10.xamarin.universal.pkg" sparkle:version="5.10.1.57" length="359253874" sparkle:dsaSignature="MCwCFBLgO4RWc/NdxwE7yA86rdWlcd6QAhQR2jyCW6vNACL8AsV6lIqImgQSkg==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2.2.4.374</title>
+      <pubDate>Thu, 24 Oct 2019 13:50:41 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gm2016.yoyogames.com/release-notes-runtime-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.magecorn.com/2.2.4.374/release-notes-2.2.4.374.json</comments>
+      <enclosure url="https://gms.magecorn.com/2.2.4.374/c829e863-a497-49a8-b898-3ead8e71ce2e.zip" sparkle:version="2.2.4.374" type="application/octet-stream" length="32691065" sparkle:dsaSignature="MCwCFCZ+dtH/zNOqN05tj0ygeqlYL5oNAhRsiJBdQkk3ITr/rUdfYcDzmykoUg==">
+        <module name="amazonfire" url="https://gms.magecorn.com/2.2.4.374/7d70ff68-8f20-4f5a-bac8-f5c544efbfb6.zip" sparkle:version="2.2.4.374" length="60794099" sparkle:dsaSignature="MCwCFBhzXGuLmyDADkab7xMxETw4Z0tiAhR43Gm9DDBwvJJIgfGEJSAW04McYg==" />
+        <module name="android" url="https://gms.magecorn.com/2.2.4.374/fec3fb37-6189-4333-97b3-f3e83dc04cc5.zip" sparkle:version="2.2.4.374" length="67385379" sparkle:dsaSignature="MCwCFFPvPRJ70yyi/dwzxdRPPhWTIq7yAhR55ZSRc+/KzO5i4B5JCeZB651WWQ==" />
+        <module name="html5" url="https://gms.magecorn.com/2.2.4.374/278e2415-6666-48ca-a124-ad1d8c5a4f7b.zip" sparkle:version="2.2.4.374" length="452549" sparkle:dsaSignature="MCwCFHQMoUSaa7rbJg4JPrLEAqIThxUEAhRZBSHWi6V2DjMXjmbitQ3pLi1TGA==" />
+        <module name="ios" url="https://gms.magecorn.com/2.2.4.374/92aa32c1-3afe-4059-a870-d7feabb33ce1.zip" sparkle:version="2.2.4.374" length="85513974" sparkle:dsaSignature="MCwCFDUOcuwd0mgADCSRLhnEVS/S+jK5AhQMV9nq/olGizsp8xdZmNEvqDxyJw==" />
+        <module name="linux" url="https://gms.magecorn.com/2.2.4.374/782d240a-c8d5-46b4-99a1-499873d5e621.zip" sparkle:version="2.2.4.374" length="2411086" sparkle:dsaSignature="MCwCFFB/XB/Iv51IRPc0yoxqnSM07uTuAhR+w2Mabjo20qnqXtJetSn2uKTGIg==" />
+        <module name="linuxYYC" url="https://gms.magecorn.com/2.2.4.374/907e7a48-547c-447a-9b26-891723cdc562.zip" sparkle:version="2.2.4.374" length="11838383" sparkle:dsaSignature="MCwCFEZ0Hn6Pb1a5d2al/tFmkCV1nZDBAhQA6jSvvJXq3tq3KBNUUbIcQlzd9Q==" />
+        <module name="mac" url="https://gms.magecorn.com/2.2.4.374/b14e4617-c4a9-4f51-8d66-cbe6950e7529.zip" sparkle:version="2.2.4.374" length="22685218" sparkle:dsaSignature="MCwCFCTLBkT+R9bly6aMMKtn1byBOdA5AhQ53YEcwErlLbb+IlhRwtwlbpsyrw==" />
+        <module name="macYYC" url="https://gms.magecorn.com/2.2.4.374/5cc8261b-e912-40c0-bf01-dc5f9efe29a1.zip" sparkle:version="2.2.4.374" length="33603422" sparkle:dsaSignature="MCwCFH8alsjKF2PYkYr6p3bF8+H5iHOoAhQY+Q5gGLickaH26GNHBxOy9jTSJA==" />
+        <module name="ps4" url="https://gms.magecorn.com/2.2.4.374/d05885ae-9fa3-4f5d-a26e-8463ecceee21.zip" sparkle:version="2.2.4.374" length="7171066" sparkle:dsaSignature="MCwCFAaTXbY97mPwX8VeJGDqqHGLfYzEAhR3waOTgO4oE8tx2IleZR+Lvj3w0A==" />
+        <module name="switch" url="https://gms.magecorn.com/2.2.4.374/b3b25400-2505-41d5-a6a5-961ec7de211d.zip" sparkle:version="2.2.4.374" length="33409385" sparkle:dsaSignature="MCwCFFHX4xUFvNx15ENg1SI8yZ0nZTWLAhQhTU8crp5YCv0iOkFA6qWyUSLTqw==" />
+        <module name="tvos" url="https://gms.magecorn.com/2.2.4.374/5d9c68ab-f823-4f29-8b35-3388734d276e.zip" sparkle:version="2.2.4.374" length="167752248" sparkle:dsaSignature="MCwCFG7+IHZI+7wIAAfWZKZmcQ+nXvl2AhRvc9Ky+MsjlDR5LG91jYkcY0B55w==" />
+        <module name="windows" url="https://gms.magecorn.com/2.2.4.374/d3de67fb-3c6e-48c9-b63b-537f4a57a00b.zip" sparkle:version="2.2.4.374" length="17230823" sparkle:dsaSignature="MCwCFA2YHIb32qFRCDntwJISGO97HBpSAhQqRxG0vGDuTAp1MHZ+BOphixLx0g==" />
+        <module name="windowsuap" url="https://gms.magecorn.com/2.2.4.374/af9b0745-b682-4240-8079-a56b1b513850.zip" sparkle:version="2.2.4.374" length="36652336" sparkle:dsaSignature="MC0CFQCOcZ8ZXaITLr11Ix5dKZYL8/vMQAIUb9sAmiVfG3grzImEe3Xg41ckW3o=" />
+        <module name="windowsYYC" url="https://gms.magecorn.com/2.2.4.374/7ae91569-5395-48a3-801c-a4421b43c50f.zip" sparkle:version="2.2.4.374" length="47502809" sparkle:dsaSignature="MC0CFQCXysa4wS6hZeHhnfp4s2oM7cGBAAIUWYsHcrC8tkBRo9pk3kNl9z5SJ2Q=" />
+        <module name="xboxone" url="https://gms.magecorn.com/2.2.4.374/fd330d06-9b26-4c6e-93e8-bc25821c3453.zip" sparkle:version="2.2.4.374" length="22156852" sparkle:dsaSignature="MC0CFAm06ijltMjn6OnS52vHcDOzj0ZkAhUAiWWydF0JGE+4m5mvVwLL66Hb7+A=" />
+        <module name="mac.mono" url="https://gm2016.yoyogames.com/MonoFramework-MDK-5.10.1.57.macos10.xamarin.universal.pkg" sparkle:version="5.10.1.57" length="359253874" sparkle:dsaSignature="MCwCFBd2qVGwRLr93MNcsn+3L9+9B3rEAhQL4/0GrwL5o7PbvSc5yYXp4E76Sw==" />
+      </enclosure>
+    </item>
+    <item>
+      <title>Version 2.2.5.378</title>
+      <pubDate>Wed, 18 Dec 2019 10:29:34 Z</pubDate>
+      <sparkle:releaseNotesLink>https://gm2016.yoyogames.com/release-notes-runtime-I.html</sparkle:releaseNotesLink>
+      <comments>https://gms.magecorn.com/2.2.5.378/release-notes-2.2.5.378.json</comments>
+      <enclosure url="https://gms.magecorn.com/2.2.5.378/1564b27d-7d15-41a6-88bc-a81558b8b9b2.zip" sparkle:version="2.2.5.378" type="application/octet-stream" length="32692269" sparkle:dsaSignature="MCwCFCv6TAmrhPfaQC8stxm58Lv17NRdAhR9gmOsszVjzLZ7SJifRAkHUItW/A==">
+        <module name="amazonfire" url="https://gms.magecorn.com/2.2.5.378/1a3122ad-9fcc-4a51-8789-bbacf5a7a362.zip" sparkle:version="2.2.5.378" length="60800131" sparkle:dsaSignature="MC0CFQCB+dlsuJO/BXWtHm5ubmHYKXyBnwIUe1Q4owe0E/Mqq8BI8zjKRaMicv0=" />
+        <module name="android" url="https://gms.magecorn.com/2.2.5.378/bf56f295-1edf-4b5d-b4a5-19813de9653a.zip" sparkle:version="2.2.5.378" length="67390213" sparkle:dsaSignature="MCwCFDofVJib67M5075KU0BHiN7EhxhWAhQG3WlrK6A0mDdaaV4FmTp9KEkZFQ==" />
+        <module name="html5" url="https://gms.magecorn.com/2.2.5.378/1b2e3d0f-cad9-4b97-bd57-987f57ae9f5a.zip" sparkle:version="2.2.5.378" length="451725" sparkle:dsaSignature="MCwCFA6vVo5gDmp6xr4Bsuk6kvbxUF+hAhRpXhWE/SQ5dXDdsjrWeIlYAxZFrA==" />
+        <module name="ios" url="https://gms.magecorn.com/2.2.5.378/6f1afc19-490f-4dcf-9077-508a86502c45.zip" sparkle:version="2.2.5.378" length="85523811" sparkle:dsaSignature="MCwCFB0vU0hfC7qmu2lLSD/SrFydTMUyAhQgglKlPV9C6TYQycDruhdLvQR15Q==" />
+        <module name="linux" url="https://gms.magecorn.com/2.2.5.378/815531cf-cf40-4005-a6d7-a0d81003494b.zip" sparkle:version="2.2.5.378" length="2410835" sparkle:dsaSignature="MC0CFDxE1odacZPhHdWd+C6lJw3ifVN8AhUAkkHqZz8K/JObRaYJY77hNSut66c=" />
+        <module name="linuxYYC" url="https://gms.magecorn.com/2.2.5.378/abddec2e-7ce8-4211-a8a8-5d1bd6ccd2ab.zip" sparkle:version="2.2.5.378" length="11839348" sparkle:dsaSignature="MCwCFCyZ3eJBehTnl74mXWZaDiNvORv2AhReQaxOTBBBlFj59Fz2IkiKRbYh0w==" />
+        <module name="mac" url="https://gms.magecorn.com/2.2.5.378/a501f24d-2f33-4454-b4eb-3a4d266004be.zip" sparkle:version="2.2.5.378" length="22690328" sparkle:dsaSignature="MC0CFQCPEFXH0KHXnxA6HtLMGgq2+HL0MQIUXFSE85k9kdpeUgf/b0tD52MDjiE=" />
+        <module name="macYYC" url="https://gms.magecorn.com/2.2.5.378/37831ed9-4df9-4fd2-95ec-983cafabd358.zip" sparkle:version="2.2.5.378" length="33605187" sparkle:dsaSignature="MCwCFG6pxQaVV/EcAHqAo7M8IrfMKlPvAhRAvugnr5SNcsXA9VaFAH5m7KKFwA==" />
+        <module name="ps4" url="https://gms.magecorn.com/2.2.5.378/45781315-54f9-4856-9ca9-90316a5cc6a0.zip" sparkle:version="2.2.5.378" length="7172495" sparkle:dsaSignature="MCwCFAjJcP99P6NQPBb6xHW04UGFHQjJAhRxIlNp1ghev0trlzIjXbNMgve54Q==" />
+        <module name="switch" url="https://gms.magecorn.com/2.2.5.378/860b6be8-e62f-4216-8ce6-8ff2753d5d30.zip" sparkle:version="2.2.5.378" length="33421630" sparkle:dsaSignature="MCwCFEQD/DPdJ2DYNDuPWQLZYAMhUCVDAhRGHXLuEL579du4/s50BTeFFVwalQ==" />
+        <module name="tvos" url="https://gms.magecorn.com/2.2.5.378/0347d9c5-747c-499c-aa98-5d9316b74341.zip" sparkle:version="2.2.5.378" length="167766310" sparkle:dsaSignature="MCwCFH2XiPmPJjQvY6+/b6DPAM2H5RueAhRrUK67ERo9HWfwW1ATWDC5MPnSXg==" />
+        <module name="windows" url="https://gms.magecorn.com/2.2.5.378/dccf9494-fb54-49d1-a974-eecb26febfe7.zip" sparkle:version="2.2.5.378" length="17231174" sparkle:dsaSignature="MCwCFHzToGmLWdGw02qksq0m9MLq5CV9AhQtotWw3sqoSgXxQYHIhp3o00MAdA==" />
+        <module name="windowsuap" url="https://gms.magecorn.com/2.2.5.378/deba8080-c225-4da5-ae80-ad09c06254d6.zip" sparkle:version="2.2.5.378" length="36653980" sparkle:dsaSignature="MCwCFHZmIJHOrTlUpw4mPChPPm0ahcgoAhRxejJ/bTwS11JX22xUhFdQhRAERQ==" />
+        <module name="windowsYYC" url="https://gms.magecorn.com/2.2.5.378/7230e597-444b-4afd-b26a-23c7619ca5f5.zip" sparkle:version="2.2.5.378" length="47504191" sparkle:dsaSignature="MCwCFGd5X+FNopGaYY7RJaButJcSvRugAhQfTBOPlJGDUPfYJm9/ZErOHmY7WQ==" />
+        <module name="xboxone" url="https://gms.magecorn.com/2.2.5.378/530412d7-c1fd-4cca-82f9-17681e2a843f.zip" sparkle:version="2.2.5.378" length="22157261" sparkle:dsaSignature="MC0CFQCRsJ7cxwvv/FtJ++ELBQfH0gw/AAIUCgGV5j3yUTMPUvx6krTiTlGGLRc=" />
+        <module name="mac.mono" url="https://gm2016.yoyogames.com/MonoFramework-MDK-5.10.1.57.macos10.xamarin.universal.pkg" sparkle:version="5.10.1.57" length="359253874" sparkle:dsaSignature="MCwCFCX6umTQoLtyUnqDhAvpZ/cblOglAhRVfk0kt4XnH+Bbvc/zk0qMgLkUpQ==" />
+      </enclosure>
+    </item>
+  </channel>
+</rss>

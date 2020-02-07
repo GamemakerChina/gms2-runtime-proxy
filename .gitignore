@@ -1,4 +1,3 @@
 .log
-logs/access.log
-logs/error.log
+logs/*
 www/Zeus-Runtime.rss

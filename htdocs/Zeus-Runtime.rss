@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+      <title>GameMaker 2016 Runtime Changelog</title>
+      <link>http://store.yoyogames.com/downloads/gm-studio/update-studio.rss</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+      <item>
+        <title>Version 2022.2.0.487</title>
+        <pubDate>Thu, 24 Feb 2022 12:12:43 Z</pubDate>
+        <sparkle:releaseNotesLink>https://gms.magecorn.com/2022.2.0.487/release-notes-runtime-I.html</sparkle:releaseNotesLink>
+        <comments>https://gms.magecorn.com/2022.2.0.487/release-notes-2022.2.0.487.json</comments>
+        <enclosure url="https://gms.magecorn.com/2022.2.0.487/45aee0c7-c96f-4d00-9d3f-3899090be9ae.zip" sparkle:version="2022.2.0.487" type="application/octet-stream" length="11032798" sparkle:dsaSignature="MCwCFAg2uOZFvZMnGj6lvakZ7B1GbYP2AhR+NnythMRdT4h5dtRxVYCJkhb/lQ==">
+          <module name="android" url="https://gms.magecorn.com/2022.2.0.487/b50e671a-7fdc-41f2-8e57-e4c711b6f4da.zip" sparkle:version="2022.2.0.487" length="97209962" sparkle:dsaSignature="MC0CFATNC0wKaRQRCZ/P6vT6qMTNwcSSAhUAgYzZdi0RSSOh8SZPJOSmQD1Cquc="/>
+          <module name="html5" url="https://gms.magecorn.com/2022.2.0.487/3afbfd30-6a0e-4b8c-b355-830dcfe297a0.zip" sparkle:version="2022.2.0.487" length="506891" sparkle:dsaSignature="MCwCFAEXwwc7MIGKgFSRxhb18JrNN9FLAhRsTbebfvO4rPsmpM5YZIi4iAzVLA=="/>
+          <module name="ios" url="https://gms.magecorn.com/2022.2.0.487/a272e98f-7222-4b93-bbf1-d61ba49e3d5f.zip" sparkle:version="2022.2.0.487" length="154489711" sparkle:dsaSignature="MCwCFFUFMh6zXWjdef96atKaA+ZWSf4EAhR66qAdqgw/v7MBpaY7OFAxbpfJjQ=="/>
+          <module name="linux" url="https://gms.magecorn.com/2022.2.0.487/3c9fc9c5-9752-4801-9699-c8ac165a94d3.zip" sparkle:version="2022.2.0.487" length="6791939" sparkle:dsaSignature="MCwCFFId2fvYkFuY8WXh8i8EycLG7ceUAhRUX/V/2H8ht1Gx3MqBdr0XvZwyPA=="/>
+          <module name="linuxYYC" url="https://gms.magecorn.com/2022.2.0.487/d3e4ef90-8692-47f0-a4c8-d66df92e9340.zip" sparkle:version="2022.2.0.487" length="54970433" sparkle:dsaSignature="MCwCFGR0qJHVBXq8IeLEFDGeLU0pI2V7AhRCJDiI74m88mtUd8/7MMNArhN5TQ=="/>
+          <module name="mac" url="https://gms.magecorn.com/2022.2.0.487/e63b7935-eef3-4bb1-84af-773379694c58.zip" sparkle:version="2022.2.0.487" length="26771205" sparkle:dsaSignature="MCwCFAs3r4ALZ3PxHn46cYRylJcFBmiuAhQrr4Mr56wbXQo7p4dVa1atHdZuHw=="/>
+          <module name="macYYC" url="https://gms.magecorn.com/2022.2.0.487/f1604e8d-f25d-45cd-9ecb-bfc599e41ad5.zip" sparkle:version="2022.2.0.487" length="25870475" sparkle:dsaSignature="MC0CFCPzF13iuCAL1751E+rPn7LyANnWAhUAmekum3xcQcmWBEvTqT5CHq/RlCk="/>
+          <module name="operagx" url="https://gms.magecorn.com/2022.2.0.487/7b86efe3-2187-475b-b890-7e85e6f5b3d7.zip" sparkle:version="2022.2.0.487" length="4361066" sparkle:dsaSignature="MC0CFD/5CZTWt3mrMPz1x/VfXjfZcoQeAhUAmVSnTwCiGXj6fo1PrETM+N5062w="/>
+          <module name="operagxYYC" url="https://gms.magecorn.com/2022.2.0.487/9f22b538-2a79-4f68-8f79-f650464bba01.zip" sparkle:version="2022.2.0.487" length="11003131" sparkle:dsaSignature="MCwCFFnDfdUXYS3hZS6QBzFgijUTUbMJAhQUxeufX1gkh9b7u33QmlCqW5hIRw=="/>
+          <module name="ps4" url="https://gms.magecorn.com/2022.2.0.487/ca246ad8-8632-46ae-abde-b7b81a6a396f.zip" sparkle:version="2022.2.0.487" length="10360670" sparkle:dsaSignature="MCwCFApCO/ZJko2rOQkOjGbf/WnzqfBlAhRA3PWBSKGYUylvUgAfBwr4SQ1SRg=="/>
+          <module name="ps5" url="https://gms.magecorn.com/2022.2.0.487/3e4a559e-71a2-411c-8169-f6dd97168db0.zip" sparkle:version="2022.2.0.487" length="11753964" sparkle:dsaSignature="MCwCFFBGGSRVDViO85UFLOEHeTyKJkCeAhRbeC7dyeQDhurmlkY/n+q3yeOX1A=="/>
+          <module name="switch" url="https://gms.magecorn.com/2022.2.0.487/1ac83797-8ee0-41d7-b881-ea4701dade9f.zip" sparkle:version="2022.2.0.487" length="34098065" sparkle:dsaSignature="MC0CFEwEgV6IsGji1n1HTX3g6dWJMfbYAhUAgLx0cy9VmtNrYq+3c0kucqOtEX8="/>
+          <module name="tvos" url="https://gms.magecorn.com/2022.2.0.487/264a409c-f89f-46a7-af70-d6757834909e.zip" sparkle:version="2022.2.0.487" length="284640057" sparkle:dsaSignature="MCwCFHownpLNtpF3Ce3XxPQuT9cY3DwIAhQuQEkQVKcSwefIl7XvkNCgAdS2sw=="/>
+          <module name="windows" url="https://gms.magecorn.com/2022.2.0.487/d348feb6-a97f-4e9e-9460-99b315ffd012.zip" sparkle:version="2022.2.0.487" length="29301123" sparkle:dsaSignature="MCwCFHH3I1t0HrcMN7+F7a2oIW4H7LEGAhR69fvfDUdxwI/NiTrfF4LEvOjqZQ=="/>
+          <module name="windowsuap" url="https://gms.magecorn.com/2022.2.0.487/54b7678b-9188-4bf4-9b20-a34e38ff19f4.zip" sparkle:version="2022.2.0.487" length="36063444" sparkle:dsaSignature="MC0CFQCD6pNebvSYxt24Cqql+Dx3UoSNcAIUSRJlpjWj+hVZuU4wU/hLRIWU7rY="/>
+          <module name="windowsYYC" url="https://gms.magecorn.com/2022.2.0.487/7e3ee39e-6fdb-4c8e-a225-5a4b813f74e9.zip" sparkle:version="2022.2.0.487" length="88699169" sparkle:dsaSignature="MC0CFDUtSRhHXJzRbvn2ig7VbP4PHomVAhUAmhZIi0xgU+6XDY4drh1D4LBgR8U="/>
+          <module name="xboxone" url="https://gms.magecorn.com/2022.2.0.487/5ec004bb-d61f-4c11-a8ab-46cc4d9cbf34.zip" sparkle:version="2022.2.0.487" length="21970401" sparkle:dsaSignature="MCwCFFt8UIxRgVIrcXgC4rRpw8Z5KxD4AhQfyxCycgUFOZfjgI77HTNF0LfMAQ=="/>
+          <module name="xboxseriesxs" url="https://gms.magecorn.com/2022.2.0.487/1c78c6b2-2a97-44ae-ae63-5243fc36c8d4.zip" sparkle:version="2022.2.0.487" length="28228034" sparkle:dsaSignature="MC0CFHOp2CtDjEzcF7OiqqbpB20xTW5rAhUAgaRi2sVy6q/wvwOkmZgdL0EXxSM="/>
+        </enclosure>
+      </item>
+      <item>
+        <title>Version 2022.2.1.491</title>
+        <pubDate>Wed, 09 Mar 2022 14:13:23 Z</pubDate>
+        <sparkle:releaseNotesLink>https://gms.magecorn.com/2022.2.1.491/release-notes-runtime-I.html</sparkle:releaseNotesLink>
+        <comments>https://gms.magecorn.com/2022.2.1.491/release-notes-2022.2.1.491.json</comments>
+        <enclosure url="https://gms.magecorn.com/2022.2.1.491/1e7de314-5b10-4934-8114-5de6b56d6459.zip" sparkle:version="2022.2.1.491" type="application/octet-stream" length="11060606" sparkle:dsaSignature="MC0CFQCE6OWcs/q4TbTfdc6BvmJv0/W/FwIUI5RTlN3ujrkjgiwZk6baCwR4wx8=">
+          <module name="android" url="https://gms.magecorn.com/2022.2.1.491/2c33a06d-d781-4c54-92a2-c0cfc1cca4cf.zip" sparkle:version="2022.2.1.491" length="97209423" sparkle:dsaSignature="MCwCFG0sFdpxiXpJiv0pgzFt+7IVfgAWAhQe1jRWiT0BQS2c0tywGgCW0mrRtQ=="/>
+          <module name="html5" url="https://gms.magecorn.com/2022.2.1.491/26ad28aa-b3d4-4b2d-839f-9bf4cccab357.zip" sparkle:version="2022.2.1.491" length="507277" sparkle:dsaSignature="MCwCFBZdMEpsXtm05PPbvptNjPxzFW9gAhQega5cOAQ/Stej9ciUz2DnRpeR3g=="/>
+          <module name="ios" url="https://gms.magecorn.com/2022.2.1.491/dda31d40-5029-424c-9fc3-d554ff75c509.zip" sparkle:version="2022.2.1.491" length="154488641" sparkle:dsaSignature="MC4CFQCWXZcCRZv8i9upDzRe2qH6k0dLigIVAJfkez6QEaFSiVmPBIoBtVUaszrU"/>
+          <module name="linux" url="https://gms.magecorn.com/2022.2.1.491/acc891b8-1dd7-4a40-b7d3-7020a91b109e.zip" sparkle:version="2022.2.1.491" length="6791497" sparkle:dsaSignature="MC4CFQCNISr5JrwW8o/kHEOUnGkGW69wogIVAImrwa2xprgADmb5JEYDEYU8i1II"/>
+          <module name="linuxYYC" url="https://gms.magecorn.com/2022.2.1.491/6a652a2f-7ae7-4008-b545-1e14d8718bcb.zip" sparkle:version="2022.2.1.491" length="54968524" sparkle:dsaSignature="MC0CFCbFIBQnXO57IkSocERzrRxu1OnVAhUAj0f6s1+Pk7qUhWKC6VFD1xqBEZ0="/>
+          <module name="mac" url="https://gms.magecorn.com/2022.2.1.491/fec63f2f-6e41-4cb5-bd09-87bf2b55c160.zip" sparkle:version="2022.2.1.491" length="26770506" sparkle:dsaSignature="MCwCFHDRhGlgmdU0Rmf89/IHytLQbxuKAhRyzjgJEZMQrzH1Sj8rmZQQ6MCyoQ=="/>
+          <module name="macYYC" url="https://gms.magecorn.com/2022.2.1.491/7d3819e4-5cee-4bfd-9c28-c11e1f397df3.zip" sparkle:version="2022.2.1.491" length="25870449" sparkle:dsaSignature="MCwCFA8kjAWZDz/XPKx0syEe+uN2Q5RXAhROsPogC+Haz7YRifst0BmnibLvCA=="/>
+          <module name="operagx" url="https://gms.magecorn.com/2022.2.1.491/f0d19430-1234-475e-b8de-fd330144bdd0.zip" sparkle:version="2022.2.1.491" length="4361049" sparkle:dsaSignature="MC0CFQCPbQCJgwFWRE5H8yD3vfJwbvVJFQIUQb/qT6oEnitWCS9uEVhnBrXSlmE="/>
+          <module name="operagxYYC" url="https://gms.magecorn.com/2022.2.1.491/6845bcf7-86c6-47e8-8cc2-8556d98b299c.zip" sparkle:version="2022.2.1.491" length="11003131" sparkle:dsaSignature="MC0CFBPmkoibzLFeqHS2DzpGpJTk37tjAhUAm/dcPlZwEaREdxHoqdiFc/vdLhw="/>
+          <module name="ps4" url="https://gms.magecorn.com/2022.2.1.491/f0cc301e-5734-4d0d-9390-436156c24483.zip" sparkle:version="2022.2.1.491" length="10360839" sparkle:dsaSignature="MCwCFHeL4xdTe3TLiwSfvFGApThwfeICAhRVmDg899myqzBXZ3SNWnQPw2y+XA=="/>
+          <module name="ps5" url="https://gms.magecorn.com/2022.2.1.491/d55e8d05-bb99-4976-9471-a124b38e8ffe.zip" sparkle:version="2022.2.1.491" length="11754180" sparkle:dsaSignature="MC0CFD03BMamoD4yY7YqferKqYFwvjtMAhUAi06jaOiteJjIlgfFDmn571SRfpo="/>
+          <module name="switch" url="https://gms.magecorn.com/2022.2.1.491/a6ca4a6b-a66a-4e3e-bdcf-7c5ae04088c0.zip" sparkle:version="2022.2.1.491" length="34098062" sparkle:dsaSignature="MCwCFCaxKE0mDQ/4f4Zo3DSFZD+bieqRAhQDquksJwWItuQ6LoO6bL2OSoj4Ug=="/>
+          <module name="tvos" url="https://gms.magecorn.com/2022.2.1.491/369bc05c-212c-4ff9-aaae-31e60fcc792a.zip" sparkle:version="2022.2.1.491" length="284639834" sparkle:dsaSignature="MCwCFGYSI4qoKrHqwRGtzyClwFbumVcEAhRQEiuDJZbLoq7RdsQj3reLZ6iWEw=="/>
+          <module name="windows" url="https://gms.magecorn.com/2022.2.1.491/ea512200-359b-43b3-824d-0edabcefa431.zip" sparkle:version="2022.2.1.491" length="29228520" sparkle:dsaSignature="MCwCFFUa4ve2gZiT2DL4iGhxBnhAJH7LAhQK6Tz6t2KN7aRsTkX7iKwn0QX8NA=="/>
+          <module name="windowsuap" url="https://gms.magecorn.com/2022.2.1.491/7f232d6d-09e5-4d8f-af3d-194acd807154.zip" sparkle:version="2022.2.1.491" length="36063955" sparkle:dsaSignature="MCwCFFKakQPsz2COVV7mMCo8fYQryyUsAhRL/j8Q1w2hEHV73FhUthDKnXXT6A=="/>
+          <module name="windowsYYC" url="https://gms.magecorn.com/2022.2.1.491/61d1b031-54ba-4ec9-8442-054e35d492c5.zip" sparkle:version="2022.2.1.491" length="85485126" sparkle:dsaSignature="MCwCFAOIH3TDnetBOeMvOxbJVe/LkQv2AhR3LGF+vNAOvGIpOR257+ETO2exCg=="/>
+          <module name="xboxone" url="https://gms.magecorn.com/2022.2.1.491/60ec178b-02b6-41d3-98e6-d3423d38170e.zip" sparkle:version="2022.2.1.491" length="21968516" sparkle:dsaSignature="MC0CFASnAAPdaSnRjAW9dglGWSMhj0KzAhUAj9w+Q4Z8a2xbJZ+FF2CWuT3GG68="/>
+          <module name="xboxseriesxs" url="https://gms.magecorn.com/2022.2.1.491/f39e30a7-b9fc-433e-8b10-d4af41ea60d3.zip" sparkle:version="2022.2.1.491" length="28227955" sparkle:dsaSignature="MCwCFEDtrc/LDrsyUpBiNrUeik29kIkcAhRcJxoZ/XwWlS7X3LU3zXws7x1SBQ=="/>
+        </enclosure>
+      </item>
+      <item>
+        <title>Version 2022.3.0.497</title>
+        <pubDate>Wed, 06 Apr 2022 11:27:16 Z</pubDate>
+        <sparkle:releaseNotesLink>https://gms.magecorn.com/2022.3.0.497/release-notes-runtime-I.html</sparkle:releaseNotesLink>
+        <comments>https://gms.magecorn.com/2022.3.0.497/release-notes-2022.3.0.497.json</comments>
+        <enclosure url="https://gms.magecorn.com/2022.3.0.497/891a6c2d-a84a-4f6d-bbe3-bb017ba39c3c.zip" sparkle:version="2022.3.0.497" type="application/octet-stream" length="11420556" sparkle:dsaSignature="MCwCFFUZOEa2/E99E9DxwRMgVjmLSVmOAhRi4lVUykvd3IduYW+7FJd2NMGrVQ==">
+          <module name="android" url="https://gms.magecorn.com/2022.3.0.497/696a9313-662c-4a99-a3f3-301ce903619a.zip" sparkle:version="2022.3.0.497" length="97204130" sparkle:dsaSignature="MCwCFG/f0339x5lN/lf2ZKzqQSlIxE7AAhQpYke0P3Y7clQxpzimXUota+HCkQ=="/>
+          <module name="html5" url="https://gms.magecorn.com/2022.3.0.497/9b2d5540-e47d-4243-ba42-ad30f070ae06.zip" sparkle:version="2022.3.0.497" length="508236" sparkle:dsaSignature="MC0CFHVigvFbY59fkrqZYWpge/dSa+yRAhUAh5lMoZXTCPO2nR/jELpdsXg6nk8="/>
+          <module name="ios" url="https://gms.magecorn.com/2022.3.0.497/49495494-403e-4bd2-ad00-781ccf3293e0.zip" sparkle:version="2022.3.0.497" length="154486440" sparkle:dsaSignature="MCwCFFhD08Ch2bzfO099nfoI5DenU01vAhRhKmpD8fStqBtsgKyzyPAK/LYYkg=="/>
+          <module name="linux" url="https://gms.magecorn.com/2022.3.0.497/23b5f42c-601a-432b-b7cc-6a5a146dd4ba.zip" sparkle:version="2022.3.0.497" length="6616144" sparkle:dsaSignature="MCwCFFQsN/VD+tVPVrnSgxJ9lVeQXww0AhQ+dIUjyWENUIUKs0P8xcLJRNRXcQ=="/>
+          <module name="linuxYYC" url="https://gms.magecorn.com/2022.3.0.497/3d3da849-e0c8-48d5-8ba8-8edd726f804b.zip" sparkle:version="2022.3.0.497" length="53501579" sparkle:dsaSignature="MC4CFQCOwvTIoM/64Z4ef38tI+s2RElezgIVAIqBqhwWFMddzuwj7VAOD7dLSyf9"/>
+          <module name="mac" url="https://gms.magecorn.com/2022.3.0.497/88d43042-7204-44a9-98f5-be39c605ce97.zip" sparkle:version="2022.3.0.497" length="26743311" sparkle:dsaSignature="MCwCFBwAiI6mK/sPjD6ulwVC0FFaqAbRAhQOtinTyEGVjs7W9QVGlrNVVH4tBw=="/>
+          <module name="macYYC" url="https://gms.magecorn.com/2022.3.0.497/fa9cbb8b-0c43-4423-9dfd-862e21918ee1.zip" sparkle:version="2022.3.0.497" length="25873142" sparkle:dsaSignature="MCwCFF9a+WcPRlVbidF/bFnbLc0oUIIlAhR3KbzERoQB8Q5BU2dPnbbeOacBpw=="/>
+          <module name="operagx" url="https://gms.magecorn.com/2022.3.0.497/107932f6-a628-4c50-847a-deb159e1c555.zip" sparkle:version="2022.3.0.497" length="4369673" sparkle:dsaSignature="MCwCFBlzkodA5H97SvG29d4R7OyHGUClAhRqMhafzgb6i/t/BxdJWB7FgI2p8w=="/>
+          <module name="operagxYYC" url="https://gms.magecorn.com/2022.3.0.497/20d09878-55f1-4796-975b-0e120f95ae72.zip" sparkle:version="2022.3.0.497" length="11019896" sparkle:dsaSignature="MCwCFF4iToo9//R9ooc2ovLWOX2dk4l3AhRwDEV7nBOLPewQ5pUiXdVP3T9gMA=="/>
+          <module name="ps4" url="https://gms.magecorn.com/2022.3.0.497/c36f413a-3bb1-45f8-8a95-7e5afe62fb3c.zip" sparkle:version="2022.3.0.497" length="10464418" sparkle:dsaSignature="MCwCFE5Hy7lo0QjTzxzIH8QAzu7SI9JQAhRXoA6wt8b4JUi0rCtHaHswPyvenw=="/>
+          <module name="ps5" url="https://gms.magecorn.com/2022.3.0.497/5dcd5671-0f1c-44b0-ae7e-54926762725c.zip" sparkle:version="2022.3.0.497" length="11675722" sparkle:dsaSignature="MC4CFQCC0+C7LbIJ83qbVuYabScWMbrzvAIVAJeJUQ6USoFqQGHjvIAt5402pTQq"/>
+          <module name="switch" url="https://gms.magecorn.com/2022.3.0.497/abe4ae31-fd58-44f2-9e28-6b776b8db61c.zip" sparkle:version="2022.3.0.497" length="34158622" sparkle:dsaSignature="MCwCFBHdvKL1dNA0C7X/FM4q3Eb9knC/AhQF3ugvQrhBcbbSsR1r53mCsxZELA=="/>
+          <module name="tvos" url="https://gms.magecorn.com/2022.3.0.497/a8636161-1078-43a4-8e3f-b09f09e7d973.zip" sparkle:version="2022.3.0.497" length="349719724" sparkle:dsaSignature="MCwCFGyNE+TzTAdQKMEGpcXWiGuhQMsOAhR7zLfrt1gnhouvmQr0ME5oIP2PFQ=="/>
+          <module name="windows" url="https://gms.magecorn.com/2022.3.0.497/fb69d738-a15f-4b02-a578-3ec1c3291ac3.zip" sparkle:version="2022.3.0.497" length="29275717" sparkle:dsaSignature="MCwCFBuRA0DXYfUmVPpVv10SG8Dq4FLNAhRjbTE5pbvIB8l5SBBJj+d6pUiPqA=="/>
+          <module name="windowsuap" url="https://gms.magecorn.com/2022.3.0.497/980c7d6f-298d-44e4-8dc9-a978063cccc7.zip" sparkle:version="2022.3.0.497" length="36067892" sparkle:dsaSignature="MCwCFDS5yLnHTKl8ZWNkL/f686J2PNFmAhRmuxWafP/tdwLEGyDStuQ0yQ0ykw=="/>
+          <module name="windowsYYC" url="https://gms.magecorn.com/2022.3.0.497/9ed6a219-e3ee-4feb-bf8c-94aa26dce79d.zip" sparkle:version="2022.3.0.497" length="85745673" sparkle:dsaSignature="MCwCFAM+wkm+gsNhSW/Lf10ToFIJE0IxAhQrgavm/chqoX9GczcIqZu822HVXQ=="/>
+          <module name="xboxone" url="https://gms.magecorn.com/2022.3.0.497/6c4e7d4d-78f4-4a93-af7a-ad4cf2e1e956.zip" sparkle:version="2022.3.0.497" length="22060727" sparkle:dsaSignature="MCwCFCwMpHXE9sS3BjVRnKWQsorAKLQdAhQz6x7MMiOD4ePfjQ0HunsG3PvjMg=="/>
+          <module name="xboxseriesxs" url="https://gms.magecorn.com/2022.3.0.497/84e1df0d-a318-489e-8a76-bdbfebc788bd.zip" sparkle:version="2022.3.0.497" length="28319791" sparkle:dsaSignature="MCwCFGt25e/t8bFCz/YA5G70UDiSastsAhQGApDyIlvmWP1uJIKslNSuBmrHAg=="/>
+          <module name="mac.mono" url="https://gms.magecorn.com/2022.3.0.497/MonoFramework-MDK-6.10.0.104.macos10.xamarin.universal.pkg" sparkle:version="6.10.0.104" length="0" sparkle:dsaSignature="MCwCFHG40hm7wvSgZ2WORkWa7j4N3bwyAhQzGIam5qBqoduM944Bc1wgvdPBWA=="/>
+        </enclosure>
+      </item>
+    </channel>
+  </rss>
